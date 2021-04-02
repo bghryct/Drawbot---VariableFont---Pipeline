@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="100"/>
+  </axes>
+  <sources>
+    <source filename="1010100100.ufo">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="1010900900.ufo">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="SquareTest" stylename="200" filename="1010200200">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="SquareTest" stylename="300" filename="1010300300">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="SquareTest" stylename="400" filename="1010400400">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="SquareTest" stylename="500" filename="1010500500">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="SquareTest" stylename="600" filename="1010600600">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.letterror.mathModelPref</key>
+      <string>previewVarLib</string>
+    </dict>
+  </lib>
+</designspace>
